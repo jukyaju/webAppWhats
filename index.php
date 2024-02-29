@@ -12,6 +12,7 @@
 </head>
 <body>
     <h1>Curso Azure / Linux . HTML</h1>
+    <h2>Entorno Developer</h2>
     <p>
         <img src="./images/QRWhatsAppAzure2.jpeg" alt="Imagen">
     </p>
